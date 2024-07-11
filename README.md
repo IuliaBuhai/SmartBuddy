@@ -9,3 +9,4 @@ Cerințe
 <img src="cont.png">
 <img src="dash.png">
 
+[Documentatie_SmartBuddy.pdf](https://github.com/user-attachments/files/16182695/Documentatie_SmartBuddy.pdf)
