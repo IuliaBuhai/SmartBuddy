@@ -5,6 +5,6 @@ SmartBuddy este un site web unde oricine dorește să acumuleze cunoștințe des
 Cerințe
 	Pentru a accesa site-ul  este nevoie doar de un dispozitiv si conexiune la internet.
 	Odată ce contul a fost creat, utilizatorul poate să acceseze toate resursele de pe site , nu este nevoie de nicio aplicație ori program în plus pentru a profita de funcționalitățile site-ului.
-![acasa](https://github.com/user-attachments/assets/97aa927d-ad8c-4b36-aa16-83cebb3654ed)
+<img src="acasa.png">
 ![cont](https://github.com/user-attachments/assets/79927e0f-661a-4358-b8db-2e984935bd9d)
 ![dash](https://github.com/user-attachments/assets/b6079292-8c3f-48d5-98c9-0e4884e03dbc)
